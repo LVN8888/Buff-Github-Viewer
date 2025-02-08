@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buff Github Viewer", "Buff Github Viewer.csproj", "{A61F9A47-7DC7-45F3-AD21-D4C9D437F451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61F9A47-7DC7-45F3-AD21-D4C9D437F451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61F9A47-7DC7-45F3-AD21-D4C9D437F451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61F9A47-7DC7-45F3-AD21-D4C9D437F451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61F9A47-7DC7-45F3-AD21-D4C9D437F451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC7EF6F-4092-46AD-80F0-B117E5A498DB}
+	EndGlobalSection
+EndGlobal
